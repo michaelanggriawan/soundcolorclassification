@@ -1,0 +1,12 @@
+{
+  "name": "soundClassification",
+  "displayName": "soundClassification",
+  "expo": {
+    "name": "soundClassification",
+    "slug": "soundClassification",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
